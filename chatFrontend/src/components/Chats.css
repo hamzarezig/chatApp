@@ -1,0 +1,12 @@
+.menu{
+    background-color: teal;
+    color: white;
+    height: 80vh;
+    width: 100vw;
+    max-width: 600px;
+    position:absolute;
+    display: none;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 20px;
+}

@@ -1,0 +1,9 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #171340;
+    font-family: monospace;
+    height: 100vh;
+}
